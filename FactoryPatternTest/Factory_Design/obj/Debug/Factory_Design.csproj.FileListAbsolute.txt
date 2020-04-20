@@ -1,0 +1,7 @@
+C:\Users\manoj\source\repos\ConsoleApp\Factory_Design\bin\Debug\Factory_Design.exe.config
+C:\Users\manoj\source\repos\ConsoleApp\Factory_Design\bin\Debug\Factory_Design.exe
+C:\Users\manoj\source\repos\ConsoleApp\Factory_Design\bin\Debug\Factory_Design.pdb
+C:\Users\manoj\source\repos\ConsoleApp\Factory_Design\obj\Debug\Factory_Design.csprojAssemblyReference.cache
+C:\Users\manoj\source\repos\ConsoleApp\Factory_Design\obj\Debug\Factory_Design.csproj.CoreCompileInputs.cache
+C:\Users\manoj\source\repos\ConsoleApp\Factory_Design\obj\Debug\Factory_Design.exe
+C:\Users\manoj\source\repos\ConsoleApp\Factory_Design\obj\Debug\Factory_Design.pdb

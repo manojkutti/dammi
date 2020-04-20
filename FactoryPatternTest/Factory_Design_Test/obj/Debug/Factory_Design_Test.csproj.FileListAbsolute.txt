@@ -1,0 +1,17 @@
+C:\Users\manoj\source\repos\ConsoleApp\Factory_Design_Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\manoj\source\repos\ConsoleApp\Factory_Design_Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\manoj\source\repos\ConsoleApp\Factory_Design_Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\manoj\source\repos\ConsoleApp\Factory_Design_Test\bin\Debug\Factory_Design_Test.dll
+C:\Users\manoj\source\repos\ConsoleApp\Factory_Design_Test\bin\Debug\Factory_Design_Test.pdb
+C:\Users\manoj\source\repos\ConsoleApp\Factory_Design_Test\bin\Debug\Factory_Design.exe
+C:\Users\manoj\source\repos\ConsoleApp\Factory_Design_Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\manoj\source\repos\ConsoleApp\Factory_Design_Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\manoj\source\repos\ConsoleApp\Factory_Design_Test\bin\Debug\Factory_Design.pdb
+C:\Users\manoj\source\repos\ConsoleApp\Factory_Design_Test\bin\Debug\Factory_Design.exe.config
+C:\Users\manoj\source\repos\ConsoleApp\Factory_Design_Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\manoj\source\repos\ConsoleApp\Factory_Design_Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\manoj\source\repos\ConsoleApp\Factory_Design_Test\obj\Debug\Factory_Design_Test.csprojAssemblyReference.cache
+C:\Users\manoj\source\repos\ConsoleApp\Factory_Design_Test\obj\Debug\Factory_Design_Test.csproj.CoreCompileInputs.cache
+C:\Users\manoj\source\repos\ConsoleApp\Factory_Design_Test\obj\Debug\Factory_Design_Test.csproj.CopyComplete
+C:\Users\manoj\source\repos\ConsoleApp\Factory_Design_Test\obj\Debug\Factory_Design_Test.dll
+C:\Users\manoj\source\repos\ConsoleApp\Factory_Design_Test\obj\Debug\Factory_Design_Test.pdb
